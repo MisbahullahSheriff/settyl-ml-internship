@@ -1,0 +1,34 @@
+2025-01-18 14:34:43 : root : DEBUG : Fetching the train data
+2025-01-18 14:34:43 : root : DEBUG : Fetching the test data
+2025-01-18 14:34:43 : root : INFO : Loaded train and test datasets
+2025-01-18 14:34:43 : root : INFO : Prepared the train set
+2025-01-18 14:34:43 : root : DEBUG : Loading model if already exists
+2025-01-18 14:34:43 : root : INFO : Successfully loaded the model
+2025-01-18 14:34:43 : root : DEBUG : Evaluating model on test data
+2025-01-18 14:34:43 : root : INFO : Prepared the test set
+2025-01-18 14:34:43 : root : INFO : Model RMSE = 1.40
+2025-01-18 14:34:46 : root : INFO : Loaded train and test datasets
+2025-01-18 14:34:46 : root : INFO : Prepared the train set
+2025-01-18 14:34:46 : root : DEBUG : Loading model if already exists
+2025-01-18 14:34:46 : root : INFO : Successfully loaded the model
+2025-01-18 14:34:46 : root : DEBUG : Evaluating model on test data
+2025-01-18 14:34:46 : root : INFO : Prepared the test set
+2025-01-18 14:34:46 : root : INFO : Model RMSE = 1.40
+2025-01-18 14:34:46 : root : DEBUG : Getting recommendations for user
+2025-01-18 14:34:46 : root : INFO : Successfully recommended products for given user
+2025-01-18 14:34:49 : root : INFO : Loaded train and test datasets
+2025-01-18 14:34:49 : root : INFO : Prepared the train set
+2025-01-18 14:34:49 : root : DEBUG : Loading model if already exists
+2025-01-18 14:34:49 : root : INFO : Successfully loaded the model
+2025-01-18 14:34:49 : root : DEBUG : Evaluating model on test data
+2025-01-18 14:34:49 : root : INFO : Prepared the test set
+2025-01-18 14:34:49 : root : INFO : Model RMSE = 1.40
+2025-01-18 14:34:51 : root : INFO : Loaded train and test datasets
+2025-01-18 14:34:51 : root : INFO : Prepared the train set
+2025-01-18 14:34:51 : root : DEBUG : Loading model if already exists
+2025-01-18 14:34:51 : root : INFO : Successfully loaded the model
+2025-01-18 14:34:51 : root : DEBUG : Evaluating model on test data
+2025-01-18 14:34:51 : root : INFO : Prepared the test set
+2025-01-18 14:34:51 : root : INFO : Model RMSE = 1.40
+2025-01-18 14:34:51 : root : DEBUG : Getting recommendations for user
+2025-01-18 14:34:51 : root : INFO : Successfully recommended products for given user
